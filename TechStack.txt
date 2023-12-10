@@ -1,0 +1,6 @@
+streamlit
+openai
+langchain==0.0.222
+fpdf
+Pillow
+azure-storage-blob

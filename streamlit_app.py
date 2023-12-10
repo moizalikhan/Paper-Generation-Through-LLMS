@@ -28,7 +28,7 @@ page_title = os.environ.get("PAGE_TITLE", "Course Bee")
 
 page_icon = Image.open("images/logo.png")
 
-PAGE_CONFIG = {"page_title":page_title, 
+PAGE_CONFIG = {"page_title":page_title,
                "page_icon": page_icon, 
                "layout":"centered",  
                "initial_sidebar_state":"auto"}
@@ -303,13 +303,7 @@ def generate_theoretical_course(subject, Length_of_course, Activities_in_course,
         with open(pdf_filename, "rb") as pdf_file:
             PDFbyte = pdf_file.read()
     
-        
-        
-      
     
-        
-
-
 def main():
     
     # Add picture on the side bar
