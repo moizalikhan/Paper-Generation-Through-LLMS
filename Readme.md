@@ -1,3 +1,5 @@
+### Project Description
+
 The provided code is a Python script that uses the Streamlit framework to create a web-based interface for generating technical and theoretical courses using an AI co-pilot. The AI co-pilot is powered by the Langchain library, which utilizes the GPT-3.5-turbo or GPT-3.5-turbo-16k model from OpenAI to generate course content based on user prompts.
 
 Here is a brief overview of the code structure and functionality:
